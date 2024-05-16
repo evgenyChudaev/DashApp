@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'energyoutliers'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3FC216D78B0141689A595AD68907ABC1 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_69EAEE98C7B14AD5B1F202A78AA251F5 }}
