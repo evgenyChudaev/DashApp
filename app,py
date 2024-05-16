@@ -133,4 +133,4 @@ def update_notification_div(value):
         return ""
  
 if __name__ == '__main__':
-    app.run_server()
+    app.run_server(debug=False)
